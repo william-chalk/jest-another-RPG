@@ -22,5 +22,8 @@
   "homepage": "https://github.com/william-chalk/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
