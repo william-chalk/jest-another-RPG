@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william-chalk/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "Game"
+  ],
+  "author": "William Chalk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william-chalk/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/william-chalk/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
